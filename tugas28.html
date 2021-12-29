@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Tugas 28 CSS-bootstrap</title>
+    <link rel="stylesheet" href="css-bs/bootstrap.css">
+    <style media="screen">
+      body {
+        background: #333333;
+      }
+      label, p {
+        color: white;
+      }
+      form {
+        width: 465px;
+        height: 500px;
+      }
+      img {
+        flex-direction: row-reverse;
+      }
+    </style>
+  </head>
+  <body>
+
+    <form class="bio" action="index.html" method="post">
+      <img src="img/lampung.jpg" class="rounded-circle" width="200px" height="100px">
+
+      <div class="">
+        <label>Nama Lengkap</label>
+        <input type="text" class="form-control" placeholder="Nama Lengkap">
+      </div>
+      <div class="">
+        <label>Alamat</label><br>
+        <textarea name="name" rows="2" cols="60"></textarea>
+      </div>
+      <div class="">
+        <label>Alamat  Email</label>
+        <input type="email" class="form-control" placeholder="Alamat email (disabled)">
+      </div>
+      <div class="">
+        <label>Password</label>
+        <input type="password" class="form-control" placeholder="Password">
+      </div>
+      <div class="">
+        <label>Scan KTP</label>
+        <input type="file" class="form-control">
+      </div>
+      <p>
+        <input type="checkbox">Saya setuju dan telah membaca aturan  serta ketentuan yang berlaku.
+      </p>
+      <button type="button" class="btn btn-primary btn-block" name="button">Submit</button>
+    </form>
+    <script class="js-bs/bootstrap.js"></script>
+  </body>
+</html>

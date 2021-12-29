@@ -1,0 +1,31 @@
+.satu, .dua {
+  width: 600px;
+  height: 450px;
+  margin: 0 auto;
+  border: 2px solid black;
+  float: inherit;
+  margin-top: auto;
+  padding-left: 20px;
+  font-size: 30px;
+  text-align: center;
+
+  background-image: radial-gradient(white, blue);
+}
+
+.dua {
+  width: 600px;
+  height: 150px;
+  /* margin: 20px;
+  border: 2px solid black;
+  float: inherit;
+  margin-left: 0 auto;
+  padding-bottom: 20px;
+  font-size: 30px;
+  text-align: center; */
+
+  background-image: linear-gradient(white, blue, white);
+}
+
+ /* body {
+  background-image: radial-gradient(pink, white);
+} */

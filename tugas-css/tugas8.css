@@ -1,0 +1,36 @@
+.satu {
+color: blue;
+text-align: right;
+}
+
+.dua {
+color: green;
+text-align: left;
+}
+
+.tiga {
+color: red;
+text-align: center;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div {
+  width: 750px;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  border: 2px solid black;
+
+  /* background-image: url("img/borobudur.jpg");
+  background-position:
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-origin: border-box;
+  background-clip: content-box;
+  background-color: white; */
+}

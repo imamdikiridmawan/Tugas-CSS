@@ -1,0 +1,48 @@
+header {
+  background-color: black;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.slider {
+  width: 96%;
+  height: 60%;
+  background-color: aqua;
+  padding-top: 0;
+  padding-left: 50px;
+}
+
+.slider-img {
+  width: 95%;
+  height: 60%;
+  padding-top: 5px;
+  padding-bottom: 0;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  float: left;
+}
+
+.p-text {
+  columns: 3;
+  column-rule: 2px solid;
+}
+.up {
+  background-color: aqua;
+}
+
+footer{
+  background-color: black;
+}
+h2{
+  color: white;
+  text-align: center;
+}

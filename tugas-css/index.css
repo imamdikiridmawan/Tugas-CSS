@@ -1,0 +1,86 @@
+h1 {
+  font-family: cursive;
+  text-decoration: underline;
+  text-align: center;
+}
+li {
+  font-family: fantasy;
+}
+
+footer, .hd {
+  text-align: center;
+  background-color: yellow;
+  font-family: cursive;
+}
+
+body {
+  background-color: black;
+}
+
+.satu:hover {
+  color: red;
+}
+
+.dua:hover {
+  color: yellow;
+}
+
+.tiga:hover {
+  color: green;
+}
+
+.empat:hover {
+  color: blue;
+}
+
+.lima:hover {
+  color: white;
+}
+
+.enam:hover {
+  color: rgb(104, 169, 252);
+}
+
+.tujuh:hover {
+  color: aqua;
+}
+
+.delapan:hover {
+  color: rgb(190, 217, 226)
+}
+
+.sembilan:hover{
+  color: orange;
+}
+
+.sepuluh:hover{
+  color: aqua;
+}
+
+.sebelas:hover{
+  color: rgb(45, 158, 222)
+}
+
+.duabelas:hover{
+  color: rgb(245, 126, 224)
+}
+
+.tigabelas:hover{
+  color: rgb(165, 95, 106)
+}
+.empatbelas:hover{
+  color: rgb(126, 148, 178)
+}
+.limabelas:hover{
+  color: rgb(124, 118, 200)
+}
+.enambelas:hover{
+  color: rgb(124, 118, 200)
+}
+
+
+p {
+  color: white;
+  font-family: monospace;
+  text-align: justify;
+}

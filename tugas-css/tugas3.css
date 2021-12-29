@@ -1,0 +1,17 @@
+.p-1 {
+background-color: orange;
+}
+
+.p-2 {
+background-color: blue;
+}
+
+.p-3 {
+  font-family: monospace;
+  border-style: groove;
+}
+
+.p-4 {
+font-weight: bold;
+background-color: #696a6a;
+}
